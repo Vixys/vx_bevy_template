@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.16.1"
-vx_dev_tools = { git = "https://github.com/Vixys/vx_dev_tools", version = "0.1.2" }
+vx_dev_tools = { git = "https://github.com/Vixys/vx_dev_tools", version = "0.1.3" }
